@@ -1,8 +1,11 @@
 # C-CoTTA: Controllable Continual Test-Time Adaptation
 
 Official code for Controllable Continual Test-Time Adaptation.
-Here, we use the CIFAR10-C dataset as an example to introduce the usage of the code.
+Here, we use the CIFAR10-C dataset as an example to introduce the usage of the code. [[arxiv]](https://arxiv.org/abs/2405.14602)
 
+
+
+![233](./doc/tsne.png)
 
 ## Prerequisite
 
