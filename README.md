@@ -32,4 +32,15 @@ python test_time.py --cfg ./cfgs/cifar10_c/CCoTTA.yaml --gpu 0 --cav_alpha 2.0 -
 ```
 
 
+## Citation
+If you find our survey and repository useful for your research, please consider citing our paper:
+```bibtex
+@article{shi2024controllable,
+  title={Controllable Continual Test-Time Adaptation},
+  author={Shi, Ziqi and Lyu, Fan and Liu, Ye and Shang, Fanhua and Hu, Fuyuan and Feng, Wei and Zhang, Zhang and Wang, Liang},
+  journal={arXiv preprint arXiv:2405.14602},
+  year={2024}
+}
+```
+
 
